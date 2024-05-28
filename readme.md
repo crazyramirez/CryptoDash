@@ -80,10 +80,12 @@ Check & Install PyQt5
     X-GNOME-Autostart-enabled=true
     ```
 
-Disable Desktop UI (Comment out lines)
+Disable Desktop UI (Comment out lines):
+
     ```bash
     sudo nano /etc/xdg/lxsession/LXDE-pi/autostart
     ```
+    
     - Comment out the following lines:
     ```plaintext
     #@lxpanel --profile LXDE-pi
