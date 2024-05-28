@@ -8,6 +8,8 @@ Includes a network manager (network.py) to use as a single App on a device.
 
 network.py only works on Raspberry Pi with the use of the PyWifi library 
 
+![Raspberry Pi Logo](https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png)
+
 ## Install `requirements.txt`
     ```bash
     pip install -r requirements.txt
