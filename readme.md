@@ -45,7 +45,7 @@ Install `requirements.txt`
     sudo apt install realvnc-vnc-server realvnc-vnc-viewer -y
     ```
 
-3. Adjust Swap File:
+3. Adjust Swap File (Recommended for Raspberry Pi Zero 2W or lower devices):
     ```bash
     sudo dphys-swapfile swapoff
     sudo nano /etc/dphys-swapfile
