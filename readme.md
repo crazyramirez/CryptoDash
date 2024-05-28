@@ -11,8 +11,8 @@ Includes a network manager (network.py) to use as a single App on a device.
 <img src="./images/demo1.jpeg" alt="CRYPTO DASHBOARD Demo 1" width="300"/>
 <img src="./images/demo2.jpeg" alt="CRYPTO DASHBOARD Demo 2" width="300"/>
 
-## Install `requirements.txt`
-    ```
+Install `requirements.txt`
+    ```bash
     pip install -r requirements.txt
     ```
     ```bash
