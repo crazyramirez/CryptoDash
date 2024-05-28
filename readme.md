@@ -61,7 +61,6 @@ Check & Install PyQt5
     cd .config
     sudo mkdir autostart
     sudo chmod +x autostart
-    cd autostart
     sudo nano crypto_dash.desktop
     ```
 2. Add the following to `crypto_dash.desktop`:
@@ -73,7 +72,7 @@ Check & Install PyQt5
     Comment=CryptoDash Script - Runs at Startup
     X-GNOME-Autostart-enabled=true
     ```
-        sudo chmod +x autostart
+    ```sudo chmod +x crypto_dash.desktop```
 
 3. Disable Desktop UI (Comment out lines):
     ```bash
