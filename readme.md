@@ -6,7 +6,7 @@ The objective of this exercise was to design a mini device based on Raspberry Pi
 
 Includes a network manager (network.py) to use as a single App on a device.
 
-network.py only works on Raspberry Pi with the use of the PyWifi library 
+**network.py** only works on Raspberry Pi with the use of the PyWifi library 
 
 <img src="./images/demo1.jpeg" alt="CRYPTO DASHBOARD Demo 1" width="300"/>
 <img src="./images/demo2.jpeg" alt="CRYPTO DASHBOARD Demo 2" width="300"/>
