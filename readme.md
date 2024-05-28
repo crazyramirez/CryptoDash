@@ -85,7 +85,3 @@ Check & Install PyQt5
     #@pcmanfm --desktop --profile LXDE-pi
     #@xscreensaver -no-splash
     ```
-
-## Additional Steps
-- Copy project directories to the Desktop using FTP
-- Navigate to the project directory using the terminal
