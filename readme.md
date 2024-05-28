@@ -2,11 +2,11 @@
 Simple but beautiful Cryptocurrency Dashboard using the Binance API.
 Interface well adapted for touch screens.
 
-The objective of this exercise was to design a mini device based on Raspberry Pi with a 4.3" touch screen integrated by DSI and the most fun part of the project is to design the box using wood with some elegant design. (When I have it finished I will share it )
+The main purpose of this exercise was to design a mini device based on Raspberry Pi with a 4.3" touch screen integrated by DSI and the most fun part of the project is to design the box using wood with some elegant design. (When I have it finished I will share it )
 
 Includes a network manager (network.py) to use as a single App on a device.
 
-**network.py** only works on Raspberry Pi with the use of the PyWifi library 
+**network.py** only works on Raspberry Pi using the PyWifi library 
 
 <img src="./images/demo1.jpeg" alt="CRYPTO DASHBOARD Demo 1" width="300"/>
 <img src="./images/demo2.jpeg" alt="CRYPTO DASHBOARD Demo 2" width="300"/>
