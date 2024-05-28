@@ -56,7 +56,7 @@ Install `requirements.txt`
     sudo dphys-swapfile swapon
     ```
 
-## Check & Install PyQt5
+Check & Install PyQt5
     ```bash
     sudo apt install python3-pyqt5
     ```
@@ -80,7 +80,7 @@ Install `requirements.txt`
     X-GNOME-Autostart-enabled=true
     ```
 
-## Disable Desktop UI (Comment out lines)
+Disable Desktop UI (Comment out lines)
     ```bash
     sudo nano /etc/xdg/lxsession/LXDE-pi/autostart
     ```
