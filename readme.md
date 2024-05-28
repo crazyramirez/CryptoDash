@@ -11,7 +11,7 @@ network.py only works on Raspberry Pi with the use of the PyWifi library
 <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" alt="Raspberry Pi Logo" width="120"/>
 
 ![My Image](./images/demo1.jpeg)
-![My Image](./images/demo1.jpeg)
+![My Image](./images/demo2.jpeg)
 
 
 ## Install `requirements.txt`
