@@ -10,8 +10,8 @@ network.py only works on Raspberry Pi with the use of the PyWifi library
 
 <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" alt="Raspberry Pi Logo" width="120"/>
 
-<img src="../images/demo1.jpg" alt="Raspberry Pi Logo" width="400"/>
-<img src="../images/demo2.jpg" alt="Raspberry Pi Logo" width="400"/>
+<img src="./images/demo1.jpg" alt="CRYPTO DASH DEMO 1" width="400"/>
+<img src="./images/demo2.jpg" alt="CRYPTO DASH DEMO 2" width="400"/>
 
 ## Install `requirements.txt`
     ```bash
