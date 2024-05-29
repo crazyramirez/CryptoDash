@@ -72,6 +72,8 @@ class WiFiManager(QWidget):
         self.status_label = self.create_label('SCANNING NETWORKS')
         self.network_list = self.create_list_widget()
         self.password_input = self.create_line_edit('Enter WiFi password', self.input_focused)
+        self.selected_input = self.password_input
+        self.password_input.setStyleSheet("color: white; border: none; padding: 5px; background-color: rgba(0,0,0,180);")
         self.connect_button = self.create_button('CONNECT', self.connect_to_network, "green")
         self.close_button = self.create_button('CLOSE', self.close_app, "rgb(60,60,60)")
 
@@ -102,9 +104,9 @@ class WiFiManager(QWidget):
 
     def create_label(self, text):
         label = QLabel(text)
-        label.setStyleSheet("color: white; background-color: rgba(0,0,0,180); height: 20px;")
+        # label.setStyleSheet("color: white; background-color: rgba(0,0,0,180); height: 20px;")
         label.setAlignment(Qt.AlignCenter)
-        label.setContentsMargins(0, 5, 0, 5) 
+        # label.setContentsMargins(0, 5, 0, 5) 
         label.setFont(QFont('Montserrat Regular', 15))
         return label
 
@@ -156,7 +158,7 @@ class WiFiManager(QWidget):
         for i, row in enumerate(keys):
             for j, key in enumerate(row):
                 button = QPushButton(key)
-                button.setStyleSheet("color: white; background-color: rgb(30,30,30); border: none; font-weight: bold; border-radius: 5px; padding: 15px;")
+                button.setStyleSheet("color: white; background-color: rgb(30,30,30); border: none; font-weight: bold; border-radius: 5px; padding: 8px;")
                 button.setFont(QFont('Montserrat Regular', 12))
                 button.clicked.connect(lambda ch, key=key: self.key_pressed(key))
                 self.keyboard_layout.addWidget(button, i, j)
