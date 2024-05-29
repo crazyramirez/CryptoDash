@@ -20,7 +20,7 @@ Includes a network manager (network.py) to use as a single App on a device.
 ## Run
     python crypto_dash.py
     
-# Instructions to run it as a Single APP Device
+# Instructions to run it as a Single Device APP
 
 ## Install Image using Raspberry Pi Imager (Raspbian OS 64 bit)
 - Configure settings in Pi Imager (SSH - WIFI - Login...)
