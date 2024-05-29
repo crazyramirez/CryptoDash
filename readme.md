@@ -94,12 +94,12 @@ Check & Install PyQt5
    cd .config/autostart
    sudo nano unclutter.desktop
    ```
-7. Add the following lines and save
-   ´´´
-   [Desktop Entry]
+   Add the following lines and save
+   ```
+    [Desktop Entry]
     Type=Application
     Name=Unclutter
     Exec=unclutter -idle 0.1
     X-GNOME-Autostart-enabled=true
-   ´´´
+     ```
    
