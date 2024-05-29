@@ -89,3 +89,9 @@ Check & Install PyQt5
     ```
     sudo apt-get install unclutter
     ```
+    Add Unclutter to Startup
+   ```
+   cd .config/autostart
+   sudo nano unclutter.desktop
+   ´´´
+   
