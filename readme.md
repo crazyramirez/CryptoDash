@@ -85,3 +85,7 @@ Check & Install PyQt5
     #@pcmanfm --desktop --profile LXDE-pi
     #@xscreensaver -no-splash
     ```
+5. Install unclutter (to hide mouse icon)
+    ```
+    sudo apt-get install unclutter
+    ```
