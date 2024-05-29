@@ -254,7 +254,10 @@ class CryptoDashboard(QWidget):
         self.timer = QTimer(self)
         self.timer.timeout.connect(self.update_data)
         self.timer.start(60000)
+
+        # Update Data
         self.update_data()
+        QTimer.singleShot(1000, self.update_data)
 
         # Set Background
         QTimer.singleShot(1000, self.set_background)
