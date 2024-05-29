@@ -82,7 +82,7 @@ class WiFiManager(QWidget):
         self.showFullScreen()
 
         self.refresh_networks()
-        QTimer.singleShot(2000, self.refresh_networks)
+        QTimer.singleShot(3000, self.refresh_networks)
 
         # Conectar el evento de selección de la lista al método para enfocar el campo de contraseña
         self.network_list.itemSelectionChanged.connect(self.on_network_selected)
