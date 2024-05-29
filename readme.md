@@ -30,7 +30,7 @@ Includes a network manager (network.py) to use as a single App on a device.
 1. Run:
     ```sudo raspi-config```
     - Adjust VNC Resolution (Ex. 720x480 - 1280x720)
-    - Enable VNC (Control RPi using VNC)
+    - Enable VNC (I you want to control your RPi using VNC)
 
 2. Update and upgrade the system:
     ```bash
