@@ -67,7 +67,7 @@ Check & Install PyQt5
     ```ini
     [Desktop Entry]
     Type=Application
-    Name=PiDesk
+    Name=CryptoDash
     Exec=python3 /home/pi/Desktop/CryptoDash/crypto_dash.py
     Comment=CryptoDash Script - Runs at Startup
     X-GNOME-Autostart-enabled=true
