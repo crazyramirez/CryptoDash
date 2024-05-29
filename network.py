@@ -73,7 +73,7 @@ class WiFiManager(QWidget):
         self.network_list = self.create_list_widget()
         self.password_input = self.create_line_edit('Enter WiFi password', self.input_focused)
         self.selected_input = self.password_input
-        self.password_input.setStyleSheet("color: white; border: none; padding: 5px; background-color: rgba(0,0,0,180);")
+        self.password_input.setStyleSheet("color: #ADE4F7; border: none; padding: 5px; background-color: rgba(0,0,0,180);")
         self.connect_button = self.create_button('CONNECT', self.connect_to_network, "green")
         self.close_button = self.create_button('CLOSE', self.close_app, "rgb(60,60,60)")
 
