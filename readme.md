@@ -9,6 +9,8 @@ Includes a network manager (network.py) to use as a single App on a device.
 **network.py** only works on Raspberry Pi using the PyWifi library 
 
 <br><br>
+**Screenshots**
+<br><br>
 <img src="./images/img1.jpg" alt="CRYPTO DASHBOARD Demo 1" width="300"/>
 <img src="./images/img2.jpg" alt="CRYPTO DASHBOARD Demo 2" width="300"/>
 <br><br>
