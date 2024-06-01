@@ -8,8 +8,13 @@ Includes a network manager (network.py) to use as a single App on a device.
 
 **network.py** only works on Raspberry Pi using the PyWifi library 
 
-<img src="./images/demo1.jpeg" alt="CRYPTO DASHBOARD Demo 1" width="300"/>
-<img src="./images/demo2.jpeg" alt="CRYPTO DASHBOARD Demo 2" width="300"/>
+<br><br>
+<img src="./images/img1.jpg" alt="CRYPTO DASHBOARD Demo 1" width="300"/>
+<img src="./images/img2.jpg" alt="CRYPTO DASHBOARD Demo 2" width="300"/>
+<br><br>
+<img src="./images/img3.jpg" alt="CRYPTO DASHBOARD Demo 2" width="300"/>
+<img src="./images/img4.jpg" alt="CRYPTO DASHBOARD Demo 2" width="300"/>
+<br><br>
 
 ## Install **requirements.txt**
     pip install -r requirements.txt
