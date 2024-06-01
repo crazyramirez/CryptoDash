@@ -102,4 +102,8 @@ Check & Install PyQt5
     Exec=unclutter -idle 0.1
     X-GNOME-Autostart-enabled=true
      ```
-   
+
+## TO DO
+- [ ] Include GPIO Button Change Tokens
+- [ ] Include Wifi Access Point to configure Wifi
+- [ ] Add Token customizer
