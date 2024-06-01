@@ -12,6 +12,8 @@ Includes a network manager (network.py) to use as a single App on a device.
 <img src="./images/img1.jpg" alt="CRYPTO DASHBOARD Demo 1" width="300"/>
 <img src="./images/img2.jpg" alt="CRYPTO DASHBOARD Demo 2" width="300"/>
 <br><br>
+**The Infernal Pi Machine**
+<br><br>
 <img src="./images/img3.jpg" alt="CRYPTO DASHBOARD Demo 2" width="300"/>
 <img src="./images/img4.jpg" alt="CRYPTO DASHBOARD Demo 2" width="300"/>
 <br><br>
