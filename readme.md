@@ -1,3 +1,5 @@
+<a href="https://www.viseni.com" target="_blank"><img src="https://www.viseni.com/_demos_/viseni-logo-white.webp" style="width: 200px; margin-bottom: 50px"></a>
+
 # CRYPTO DASHBOARD
 Simple but beautiful Cryptocurrency Dashboard using the Binance API.
 Interface well adapted for touch screens.
