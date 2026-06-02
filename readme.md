@@ -21,6 +21,10 @@ Includes a network manager (network.py) to use as a single App on a device.
 <img src="./images/img4.jpg" alt="CRYPTO DASHBOARD Demo 2" width="300"/>
 <br><br>
 
+> If this tool saves you time, consider supporting its development — every contribution funds more experiments and free tools for the community. ☕
+>
+> <a href="https://www.buymeacoffee.com/drlerian" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"></a>
+
 ## Install **requirements.txt**
     pip install -r requirements.txt
     sudo pip install requests
